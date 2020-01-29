@@ -24,6 +24,14 @@ public class HelloWorld {
     public static void main(String[] args) {
         int myFavoriteNumber = 21;
         System.out.println(myFavoriteNumber);
+
+//        String myString = 'Chelsea';
+//        System.out.println(myString);
+
+        long myNumber = 123L;
+        System.out.println(myNumber);
+
+
     }
 
 

@@ -17,11 +17,11 @@ public class Rectangle {
     }
 
     public double getArea(){
-        return width * length;
+        return this.width * this.length;
     }
 
     public double getPerimeter(){
-        return 2 * length + 2 * width;
+        return 2 * this.length + 2 * this.width;
     }
 
 

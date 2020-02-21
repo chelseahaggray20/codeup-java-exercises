@@ -31,7 +31,7 @@ public class SlotMachine {
             reset();
             start();
         } else {
-            System.out.println("Thank you for playing Slots. Please come back again.");
+            System.out.println("Thank you for playing Slots!");
         }
     }
 
